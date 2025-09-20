@@ -2,7 +2,6 @@
 
 🎓 I'm a 3rd-year Diploma student and a passionate self-taught developer from Kerela,India.  
 💡 I love **Editing**, **coding**, and bringing ideas to life through design 
-
 🌱 Currently learning: **Node.js**, **MongoDB**,and full-stack web development  
 📫 How to reach me: jvinu3867@gmail.com | [LinkedIn](https://www.linkedin.com/in/your-profile)
 
